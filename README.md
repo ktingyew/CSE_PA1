@@ -28,7 +28,7 @@ to obtain a list of supported commands in this custom shell.
 
 The link to handout is as follows:
 
-[Google Docs]: https://docs.google.com/document/d/10Z6hEInVZaE13UnApPUuNLBhHlir07Xyn1R27Y79uoc/edit	"Lab 1: Process Management"
+https://docs.google.com/document/d/10Z6hEInVZaE13UnApPUuNLBhHlir07Xyn1R27Y79uoc/edit
 
 In case link is down, a pdf snapshot of this has been saved (last accessed 08 April 2020) is included in the repository under the name of `Process Management Lab.pdf`. 
 
